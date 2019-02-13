@@ -1,11 +1,11 @@
 # My Portfolio - Dhruv Patel
 
- #Overview
+ # Overview
 
 This is my latest updated portfolio. I got started with a template and used several 3rd party CSS styles and js libraries to make an elegant, pleasing user experience.
 
 
-#Content
+# Content
 
 My site has the following content:
 
